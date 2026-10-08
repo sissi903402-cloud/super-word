@@ -1,0 +1,4 @@
+interface:
+  display_name: "Super Word"
+  short_description: "Optimize rough prompts into precise platform-ready AI prompts."
+  default_prompt: "Use $super-word to optimize this rough prompt for ChatGPT in DETAIL mode."
